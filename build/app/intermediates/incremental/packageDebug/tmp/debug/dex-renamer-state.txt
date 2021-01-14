@@ -1,0 +1,4 @@
+#Thu Jan 14 09:25:53 BRT 2021
+base.0=/Users/marcus/development/startup_namer/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
